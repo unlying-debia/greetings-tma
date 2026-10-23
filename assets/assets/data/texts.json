@@ -1,0 +1,156 @@
+{
+  "new-year": {
+    "ru": {
+      "title": "С Новым годом!",
+      "messages": [
+        "Пусть новый год принесёт тепло, смелые мечты и радостные встречи.",
+        "Пусть каждый день будет маленьким чудом.",
+        "Желаю уютных вечеров и больших счастливых перемен.",
+        "Пусть рядом будут любимые люди, а впереди — добрые открытия.",
+        "Света, вдохновения и исполнения самого заветного!"
+      ]
+    },
+    "en": {
+      "title": "Happy New Year!",
+      "messages": [
+        "May the new year bring warmth, brave dreams and joyful reunions.",
+        "May every day hold a little wonder.",
+        "Wishing you cosy evenings and wonderful new beginnings.",
+        "May loved ones stay close and kind discoveries lie ahead.",
+        "Wishing you light, inspiration and a cherished dream come true!"
+      ]
+    }
+  },
+  "march-8": {
+    "ru": {
+      "title": "С 8 Марта!",
+      "messages": [
+        "Пусть весна подарит вдохновение, нежность и много поводов улыбаться.",
+        "Желаю лёгкости, радости и времени для любимых дел.",
+        "Пусть каждый день расцветает новыми возможностями.",
+        "Тепла, любви и весеннего настроения круглый год!",
+        "Пусть сбываются мечты, а рядом будут те, кто ценит вас."
+      ]
+    },
+    "en": {
+      "title": "Happy March 8!",
+      "messages": [
+        "May spring bring inspiration, kindness and reasons to smile.",
+        "Wishing you joy and time for the things you love.",
+        "May every day bloom with new possibilities.",
+        "Warmth, love and a springtime spirit all year long!",
+        "May your dreams come true, surrounded by people who value you."
+      ]
+    }
+  },
+  "feb-23": {
+    "ru": {
+      "title": "С 23 Февраля!",
+      "messages": [
+        "Желаю уверенности, надёжной поддержки и мирного неба.",
+        "Пусть хватает сил для важных дел и времени для отдыха.",
+        "Здоровья, спокойствия и верных друзей рядом!",
+        "Пусть удаются смелые планы и радуют простые вещи.",
+        "Желаю стойкости, добрых встреч и благополучия."
+      ]
+    },
+    "en": {
+      "title": "Happy February 23!",
+      "messages": [
+        "Wishing you confidence, steady support and peaceful skies.",
+        "May you have energy for meaningful work and time to rest.",
+        "Wishing you health, calm and trusted friends nearby.",
+        "May bold plans succeed and simple things bring joy.",
+        "Wishing you strength, kind encounters and wellbeing."
+      ]
+    }
+  },
+  "birthday": {
+    "ru": {
+      "title": "С днём рождения!",
+      "messages": [
+        "Пусть жизнь радует яркими моментами и добрыми людьми.",
+        "Желаю смело мечтать и находить счастье в каждом дне.",
+        "Здоровья, любви и вдохновения для новых открытий!",
+        "Пусть впереди будет много путешествий, улыбок и тёплых встреч.",
+        "Желаю времени на себя и исполнения самых важных желаний."
+      ]
+    },
+    "en": {
+      "title": "Happy birthday!",
+      "messages": [
+        "May life be filled with bright moments and kind people.",
+        "Dream boldly and find happiness in every day.",
+        "Wishing you health, love and inspiration for new discoveries!",
+        "May your future hold adventures, smiles and warm reunions.",
+        "Wishing you time for yourself and your dearest wishes fulfilled."
+      ]
+    }
+  },
+  "wedding": {
+    "ru": {
+      "title": "С днём свадьбы!",
+      "messages": [
+        "Берегите друг друга и наполняйте общий дом теплом.",
+        "Пусть любовь становится крепче с каждым новым днём.",
+        "Желаю вам доверия, нежности и счастливых общих историй.",
+        "Пусть в доме всегда найдётся место смеху и добрым мечтам.",
+        "Счастья вашей семье и долгих лет рука об руку!"
+      ]
+    },
+    "en": {
+      "title": "Happy wedding day!",
+      "messages": [
+        "Care for each other and fill your home with warmth.",
+        "May your love grow stronger with every new day.",
+        "Wishing you trust, tenderness and happy stories together.",
+        "May your home always have room for laughter and dreams.",
+        "Wishing your family happiness and many years hand in hand!"
+      ]
+    }
+  },
+  "anniversary": {
+    "ru": {
+      "title": "С юбилеем!",
+      "messages": [
+        "Пусть новый этап будет щедрым на радость и открытия.",
+        "Здоровья, энергии и вдохновения для любимых дел!",
+        "Пусть рядом будут близкие, а в сердце живёт весна.",
+        "Желаю гордиться пройденным путём и с интересом смотреть вперёд.",
+        "Пусть жизнь дарит новые поводы праздновать!"
+      ]
+    },
+    "en": {
+      "title": "Happy anniversary!",
+      "messages": [
+        "May your next chapter be rich with joy and discovery.",
+        "Wishing you health, energy and inspiration for what you love!",
+        "May loved ones stay close and spring remain in your heart.",
+        "Be proud of your journey and look forward with curiosity.",
+        "May life keep giving you reasons to celebrate!"
+      ]
+    }
+  },
+  "graduation": {
+    "ru": {
+      "title": "С выпускным!",
+      "messages": [
+        "Пусть впереди ждут интересные дороги и смелые открытия.",
+        "Верьте в себя и не бойтесь пробовать новое!",
+        "Пусть знания помогут найти своё дело и верных друзей.",
+        "Желаю вдохновения, любопытства и удачи на новом пути.",
+        "Пусть каждый шаг приближает к мечте. Всё только начинается!"
+      ]
+    },
+    "en": {
+      "title": "Happy graduation!",
+      "messages": [
+        "May interesting roads and brave discoveries lie ahead.",
+        "Believe in yourself and keep trying new things!",
+        "May your knowledge lead you to a calling and true friends.",
+        "Wishing you inspiration, curiosity and luck on your new path.",
+        "May every step bring you closer to your dream. This is just the beginning!"
+      ]
+    }
+  }
+}

@@ -1,0 +1,2095 @@
+[
+  {
+    "id": "new-year-01",
+    "category": "new-year",
+    "premium": false,
+    "layout": 0,
+    "decoration": 0,
+    "font": "CardSerif",
+    "colors": [
+      "183F3D",
+      "3F7961",
+      "FFF3D9"
+    ],
+    "emoji": "✨",
+    "variant": 0,
+    "motifPosition": [
+      0.5,
+      0.195
+    ],
+    "emojiPosition": [
+      150,
+      -110
+    ]
+  },
+  {
+    "id": "new-year-02",
+    "category": "new-year",
+    "premium": false,
+    "layout": 1,
+    "decoration": 1,
+    "font": "CardSans",
+    "colors": [
+      "183F3D",
+      "3F7961",
+      "FFF3D9"
+    ],
+    "emoji": "✨",
+    "variant": 1,
+    "motifPosition": [
+      0.5,
+      0.195
+    ],
+    "emojiPosition": [
+      150,
+      -110
+    ]
+  },
+  {
+    "id": "new-year-03",
+    "category": "new-year",
+    "premium": false,
+    "layout": 2,
+    "decoration": 2,
+    "font": "CardSerif",
+    "colors": [
+      "183F3D",
+      "3F7961",
+      "FFF3D9"
+    ],
+    "emoji": "✨",
+    "variant": 2,
+    "motifPosition": [
+      0.5,
+      0.195
+    ],
+    "emojiPosition": [
+      150,
+      -110
+    ]
+  },
+  {
+    "id": "new-year-04",
+    "category": "new-year",
+    "premium": false,
+    "layout": 0,
+    "decoration": 3,
+    "font": "CardSans",
+    "colors": [
+      "183F3D",
+      "3F7961",
+      "FFF3D9"
+    ],
+    "emoji": "✨",
+    "variant": 3,
+    "motifPosition": [
+      0.5,
+      0.195
+    ],
+    "emojiPosition": [
+      150,
+      -110
+    ]
+  },
+  {
+    "id": "new-year-05",
+    "category": "new-year",
+    "premium": false,
+    "layout": 1,
+    "decoration": 0,
+    "font": "CardSerif",
+    "colors": [
+      "183F3D",
+      "3F7961",
+      "FFF3D9"
+    ],
+    "emoji": "✨",
+    "variant": 4,
+    "motifPosition": [
+      0.5,
+      0.195
+    ],
+    "emojiPosition": [
+      150,
+      -110
+    ]
+  },
+  {
+    "id": "new-year-06",
+    "category": "new-year",
+    "premium": false,
+    "layout": 2,
+    "decoration": 1,
+    "font": "CardSans",
+    "colors": [
+      "183F3D",
+      "3F7961",
+      "FFF3D9"
+    ],
+    "emoji": "✨",
+    "variant": 5,
+    "motifPosition": [
+      0.5,
+      0.195
+    ],
+    "emojiPosition": [
+      150,
+      -110
+    ]
+  },
+  {
+    "id": "new-year-07",
+    "category": "new-year",
+    "premium": false,
+    "layout": 0,
+    "decoration": 2,
+    "font": "CardSerif",
+    "colors": [
+      "183F3D",
+      "3F7961",
+      "FFF3D9"
+    ],
+    "emoji": "✨",
+    "variant": 6,
+    "motifPosition": [
+      0.5,
+      0.195
+    ],
+    "emojiPosition": [
+      150,
+      -110
+    ]
+  },
+  {
+    "id": "new-year-08",
+    "category": "new-year",
+    "premium": false,
+    "layout": 1,
+    "decoration": 3,
+    "font": "CardSans",
+    "colors": [
+      "183F3D",
+      "3F7961",
+      "FFF3D9"
+    ],
+    "emoji": "✨",
+    "variant": 7,
+    "motifPosition": [
+      0.5,
+      0.195
+    ],
+    "emojiPosition": [
+      150,
+      -110
+    ]
+  },
+  {
+    "id": "new-year-09",
+    "category": "new-year",
+    "premium": true,
+    "layout": 2,
+    "decoration": 0,
+    "font": "CardSerif",
+    "colors": [
+      "183F3D",
+      "3F7961",
+      "FFF3D9"
+    ],
+    "emoji": "✨",
+    "variant": 8,
+    "motifPosition": [
+      0.5,
+      0.195
+    ],
+    "emojiPosition": [
+      150,
+      -110
+    ]
+  },
+  {
+    "id": "new-year-10",
+    "category": "new-year",
+    "premium": true,
+    "layout": 0,
+    "decoration": 1,
+    "font": "CardSans",
+    "colors": [
+      "183F3D",
+      "3F7961",
+      "FFF3D9"
+    ],
+    "emoji": "✨",
+    "variant": 9,
+    "motifPosition": [
+      0.5,
+      0.195
+    ],
+    "emojiPosition": [
+      150,
+      -110
+    ]
+  },
+  {
+    "id": "new-year-11",
+    "category": "new-year",
+    "premium": true,
+    "layout": 1,
+    "decoration": 2,
+    "font": "CardSerif",
+    "colors": [
+      "183F3D",
+      "3F7961",
+      "FFF3D9"
+    ],
+    "emoji": "✨",
+    "variant": 10,
+    "motifPosition": [
+      0.5,
+      0.195
+    ],
+    "emojiPosition": [
+      150,
+      -110
+    ]
+  },
+  {
+    "id": "new-year-12",
+    "category": "new-year",
+    "premium": true,
+    "layout": 2,
+    "decoration": 3,
+    "font": "CardSans",
+    "colors": [
+      "183F3D",
+      "3F7961",
+      "FFF3D9"
+    ],
+    "emoji": "✨",
+    "variant": 11,
+    "motifPosition": [
+      0.5,
+      0.195
+    ],
+    "emojiPosition": [
+      150,
+      -110
+    ]
+  },
+  {
+    "id": "new-year-13",
+    "category": "new-year",
+    "premium": true,
+    "layout": 0,
+    "decoration": 0,
+    "font": "CardSerif",
+    "colors": [
+      "183F3D",
+      "3F7961",
+      "FFF3D9"
+    ],
+    "emoji": "✨",
+    "variant": 12,
+    "motifPosition": [
+      0.5,
+      0.195
+    ],
+    "emojiPosition": [
+      150,
+      -110
+    ]
+  },
+  {
+    "id": "march-8-01",
+    "category": "march-8",
+    "premium": false,
+    "layout": 0,
+    "decoration": 0,
+    "font": "CardSerif",
+    "colors": [
+      "782D4E",
+      "D16C89",
+      "FFF1DF"
+    ],
+    "emoji": "🌷",
+    "variant": 0,
+    "motifPosition": [
+      0.5,
+      0.195
+    ],
+    "emojiPosition": [
+      150,
+      -110
+    ]
+  },
+  {
+    "id": "march-8-02",
+    "category": "march-8",
+    "premium": false,
+    "layout": 1,
+    "decoration": 1,
+    "font": "CardSans",
+    "colors": [
+      "782D4E",
+      "D16C89",
+      "FFF1DF"
+    ],
+    "emoji": "🌷",
+    "variant": 1,
+    "motifPosition": [
+      0.5,
+      0.195
+    ],
+    "emojiPosition": [
+      150,
+      -110
+    ]
+  },
+  {
+    "id": "march-8-03",
+    "category": "march-8",
+    "premium": false,
+    "layout": 2,
+    "decoration": 2,
+    "font": "CardSerif",
+    "colors": [
+      "782D4E",
+      "D16C89",
+      "FFF1DF"
+    ],
+    "emoji": "🌷",
+    "variant": 2,
+    "motifPosition": [
+      0.5,
+      0.195
+    ],
+    "emojiPosition": [
+      150,
+      -110
+    ]
+  },
+  {
+    "id": "march-8-04",
+    "category": "march-8",
+    "premium": false,
+    "layout": 0,
+    "decoration": 3,
+    "font": "CardSans",
+    "colors": [
+      "782D4E",
+      "D16C89",
+      "FFF1DF"
+    ],
+    "emoji": "🌷",
+    "variant": 3,
+    "motifPosition": [
+      0.5,
+      0.195
+    ],
+    "emojiPosition": [
+      150,
+      -110
+    ]
+  },
+  {
+    "id": "march-8-05",
+    "category": "march-8",
+    "premium": false,
+    "layout": 1,
+    "decoration": 0,
+    "font": "CardSerif",
+    "colors": [
+      "782D4E",
+      "D16C89",
+      "FFF1DF"
+    ],
+    "emoji": "🌷",
+    "variant": 4,
+    "motifPosition": [
+      0.5,
+      0.195
+    ],
+    "emojiPosition": [
+      150,
+      -110
+    ]
+  },
+  {
+    "id": "march-8-06",
+    "category": "march-8",
+    "premium": false,
+    "layout": 2,
+    "decoration": 1,
+    "font": "CardSans",
+    "colors": [
+      "782D4E",
+      "D16C89",
+      "FFF1DF"
+    ],
+    "emoji": "🌷",
+    "variant": 5,
+    "motifPosition": [
+      0.5,
+      0.195
+    ],
+    "emojiPosition": [
+      150,
+      -110
+    ]
+  },
+  {
+    "id": "march-8-07",
+    "category": "march-8",
+    "premium": false,
+    "layout": 0,
+    "decoration": 2,
+    "font": "CardSerif",
+    "colors": [
+      "782D4E",
+      "D16C89",
+      "FFF1DF"
+    ],
+    "emoji": "🌷",
+    "variant": 6,
+    "motifPosition": [
+      0.5,
+      0.195
+    ],
+    "emojiPosition": [
+      150,
+      -110
+    ]
+  },
+  {
+    "id": "march-8-08",
+    "category": "march-8",
+    "premium": false,
+    "layout": 1,
+    "decoration": 3,
+    "font": "CardSans",
+    "colors": [
+      "782D4E",
+      "D16C89",
+      "FFF1DF"
+    ],
+    "emoji": "🌷",
+    "variant": 7,
+    "motifPosition": [
+      0.5,
+      0.195
+    ],
+    "emojiPosition": [
+      150,
+      -110
+    ]
+  },
+  {
+    "id": "march-8-09",
+    "category": "march-8",
+    "premium": true,
+    "layout": 2,
+    "decoration": 0,
+    "font": "CardSerif",
+    "colors": [
+      "782D4E",
+      "D16C89",
+      "FFF1DF"
+    ],
+    "emoji": "🌷",
+    "variant": 8,
+    "motifPosition": [
+      0.5,
+      0.195
+    ],
+    "emojiPosition": [
+      150,
+      -110
+    ]
+  },
+  {
+    "id": "march-8-10",
+    "category": "march-8",
+    "premium": true,
+    "layout": 0,
+    "decoration": 1,
+    "font": "CardSans",
+    "colors": [
+      "782D4E",
+      "D16C89",
+      "FFF1DF"
+    ],
+    "emoji": "🌷",
+    "variant": 9,
+    "motifPosition": [
+      0.5,
+      0.195
+    ],
+    "emojiPosition": [
+      150,
+      -110
+    ]
+  },
+  {
+    "id": "march-8-11",
+    "category": "march-8",
+    "premium": true,
+    "layout": 1,
+    "decoration": 2,
+    "font": "CardSerif",
+    "colors": [
+      "782D4E",
+      "D16C89",
+      "FFF1DF"
+    ],
+    "emoji": "🌷",
+    "variant": 10,
+    "motifPosition": [
+      0.5,
+      0.195
+    ],
+    "emojiPosition": [
+      150,
+      -110
+    ]
+  },
+  {
+    "id": "march-8-12",
+    "category": "march-8",
+    "premium": true,
+    "layout": 2,
+    "decoration": 3,
+    "font": "CardSans",
+    "colors": [
+      "782D4E",
+      "D16C89",
+      "FFF1DF"
+    ],
+    "emoji": "🌷",
+    "variant": 11,
+    "motifPosition": [
+      0.5,
+      0.195
+    ],
+    "emojiPosition": [
+      150,
+      -110
+    ]
+  },
+  {
+    "id": "march-8-13",
+    "category": "march-8",
+    "premium": true,
+    "layout": 0,
+    "decoration": 0,
+    "font": "CardSerif",
+    "colors": [
+      "782D4E",
+      "D16C89",
+      "FFF1DF"
+    ],
+    "emoji": "🌷",
+    "variant": 12,
+    "motifPosition": [
+      0.5,
+      0.195
+    ],
+    "emojiPosition": [
+      150,
+      -110
+    ]
+  },
+  {
+    "id": "feb-23-01",
+    "category": "feb-23",
+    "premium": false,
+    "layout": 0,
+    "decoration": 0,
+    "font": "CardSerif",
+    "colors": [
+      "203750",
+      "587F96",
+      "FFF0D2"
+    ],
+    "emoji": "⭐",
+    "variant": 0,
+    "motifPosition": [
+      0.5,
+      0.195
+    ],
+    "emojiPosition": [
+      150,
+      -110
+    ]
+  },
+  {
+    "id": "feb-23-02",
+    "category": "feb-23",
+    "premium": false,
+    "layout": 1,
+    "decoration": 1,
+    "font": "CardSans",
+    "colors": [
+      "203750",
+      "587F96",
+      "FFF0D2"
+    ],
+    "emoji": "⭐",
+    "variant": 1,
+    "motifPosition": [
+      0.5,
+      0.195
+    ],
+    "emojiPosition": [
+      150,
+      -110
+    ]
+  },
+  {
+    "id": "feb-23-03",
+    "category": "feb-23",
+    "premium": false,
+    "layout": 2,
+    "decoration": 2,
+    "font": "CardSerif",
+    "colors": [
+      "203750",
+      "587F96",
+      "FFF0D2"
+    ],
+    "emoji": "⭐",
+    "variant": 2,
+    "motifPosition": [
+      0.5,
+      0.195
+    ],
+    "emojiPosition": [
+      150,
+      -110
+    ]
+  },
+  {
+    "id": "feb-23-04",
+    "category": "feb-23",
+    "premium": false,
+    "layout": 0,
+    "decoration": 3,
+    "font": "CardSans",
+    "colors": [
+      "203750",
+      "587F96",
+      "FFF0D2"
+    ],
+    "emoji": "⭐",
+    "variant": 3,
+    "motifPosition": [
+      0.5,
+      0.195
+    ],
+    "emojiPosition": [
+      150,
+      -110
+    ]
+  },
+  {
+    "id": "feb-23-05",
+    "category": "feb-23",
+    "premium": false,
+    "layout": 1,
+    "decoration": 0,
+    "font": "CardSerif",
+    "colors": [
+      "203750",
+      "587F96",
+      "FFF0D2"
+    ],
+    "emoji": "⭐",
+    "variant": 4,
+    "motifPosition": [
+      0.5,
+      0.195
+    ],
+    "emojiPosition": [
+      150,
+      -110
+    ]
+  },
+  {
+    "id": "feb-23-06",
+    "category": "feb-23",
+    "premium": false,
+    "layout": 2,
+    "decoration": 1,
+    "font": "CardSans",
+    "colors": [
+      "203750",
+      "587F96",
+      "FFF0D2"
+    ],
+    "emoji": "⭐",
+    "variant": 5,
+    "motifPosition": [
+      0.5,
+      0.195
+    ],
+    "emojiPosition": [
+      150,
+      -110
+    ]
+  },
+  {
+    "id": "feb-23-07",
+    "category": "feb-23",
+    "premium": false,
+    "layout": 0,
+    "decoration": 2,
+    "font": "CardSerif",
+    "colors": [
+      "203750",
+      "587F96",
+      "FFF0D2"
+    ],
+    "emoji": "⭐",
+    "variant": 6,
+    "motifPosition": [
+      0.5,
+      0.195
+    ],
+    "emojiPosition": [
+      150,
+      -110
+    ]
+  },
+  {
+    "id": "feb-23-08",
+    "category": "feb-23",
+    "premium": false,
+    "layout": 1,
+    "decoration": 3,
+    "font": "CardSans",
+    "colors": [
+      "203750",
+      "587F96",
+      "FFF0D2"
+    ],
+    "emoji": "⭐",
+    "variant": 7,
+    "motifPosition": [
+      0.5,
+      0.195
+    ],
+    "emojiPosition": [
+      150,
+      -110
+    ]
+  },
+  {
+    "id": "feb-23-09",
+    "category": "feb-23",
+    "premium": true,
+    "layout": 2,
+    "decoration": 0,
+    "font": "CardSerif",
+    "colors": [
+      "203750",
+      "587F96",
+      "FFF0D2"
+    ],
+    "emoji": "⭐",
+    "variant": 8,
+    "motifPosition": [
+      0.5,
+      0.195
+    ],
+    "emojiPosition": [
+      150,
+      -110
+    ]
+  },
+  {
+    "id": "feb-23-10",
+    "category": "feb-23",
+    "premium": true,
+    "layout": 0,
+    "decoration": 1,
+    "font": "CardSans",
+    "colors": [
+      "203750",
+      "587F96",
+      "FFF0D2"
+    ],
+    "emoji": "⭐",
+    "variant": 9,
+    "motifPosition": [
+      0.5,
+      0.195
+    ],
+    "emojiPosition": [
+      150,
+      -110
+    ]
+  },
+  {
+    "id": "feb-23-11",
+    "category": "feb-23",
+    "premium": true,
+    "layout": 1,
+    "decoration": 2,
+    "font": "CardSerif",
+    "colors": [
+      "203750",
+      "587F96",
+      "FFF0D2"
+    ],
+    "emoji": "⭐",
+    "variant": 10,
+    "motifPosition": [
+      0.5,
+      0.195
+    ],
+    "emojiPosition": [
+      150,
+      -110
+    ]
+  },
+  {
+    "id": "feb-23-12",
+    "category": "feb-23",
+    "premium": true,
+    "layout": 2,
+    "decoration": 3,
+    "font": "CardSans",
+    "colors": [
+      "203750",
+      "587F96",
+      "FFF0D2"
+    ],
+    "emoji": "⭐",
+    "variant": 11,
+    "motifPosition": [
+      0.5,
+      0.195
+    ],
+    "emojiPosition": [
+      150,
+      -110
+    ]
+  },
+  {
+    "id": "feb-23-13",
+    "category": "feb-23",
+    "premium": true,
+    "layout": 0,
+    "decoration": 0,
+    "font": "CardSerif",
+    "colors": [
+      "203750",
+      "587F96",
+      "FFF0D2"
+    ],
+    "emoji": "⭐",
+    "variant": 12,
+    "motifPosition": [
+      0.5,
+      0.195
+    ],
+    "emojiPosition": [
+      150,
+      -110
+    ]
+  },
+  {
+    "id": "birthday-01",
+    "category": "birthday",
+    "premium": false,
+    "layout": 0,
+    "decoration": 0,
+    "font": "CardSerif",
+    "colors": [
+      "6A3178",
+      "D67788",
+      "FFF1D6"
+    ],
+    "emoji": "🎂",
+    "variant": 0,
+    "motifPosition": [
+      0.5,
+      0.195
+    ],
+    "emojiPosition": [
+      150,
+      -110
+    ]
+  },
+  {
+    "id": "birthday-02",
+    "category": "birthday",
+    "premium": false,
+    "layout": 1,
+    "decoration": 1,
+    "font": "CardSans",
+    "colors": [
+      "6A3178",
+      "D67788",
+      "FFF1D6"
+    ],
+    "emoji": "🎂",
+    "variant": 1,
+    "motifPosition": [
+      0.5,
+      0.195
+    ],
+    "emojiPosition": [
+      150,
+      -110
+    ]
+  },
+  {
+    "id": "birthday-03",
+    "category": "birthday",
+    "premium": false,
+    "layout": 2,
+    "decoration": 2,
+    "font": "CardSerif",
+    "colors": [
+      "6A3178",
+      "D67788",
+      "FFF1D6"
+    ],
+    "emoji": "🎂",
+    "variant": 2,
+    "motifPosition": [
+      0.5,
+      0.195
+    ],
+    "emojiPosition": [
+      150,
+      -110
+    ]
+  },
+  {
+    "id": "birthday-04",
+    "category": "birthday",
+    "premium": false,
+    "layout": 0,
+    "decoration": 3,
+    "font": "CardSans",
+    "colors": [
+      "6A3178",
+      "D67788",
+      "FFF1D6"
+    ],
+    "emoji": "🎂",
+    "variant": 3,
+    "motifPosition": [
+      0.5,
+      0.195
+    ],
+    "emojiPosition": [
+      150,
+      -110
+    ]
+  },
+  {
+    "id": "birthday-05",
+    "category": "birthday",
+    "premium": false,
+    "layout": 1,
+    "decoration": 0,
+    "font": "CardSerif",
+    "colors": [
+      "6A3178",
+      "D67788",
+      "FFF1D6"
+    ],
+    "emoji": "🎂",
+    "variant": 4,
+    "motifPosition": [
+      0.5,
+      0.195
+    ],
+    "emojiPosition": [
+      150,
+      -110
+    ]
+  },
+  {
+    "id": "birthday-06",
+    "category": "birthday",
+    "premium": false,
+    "layout": 2,
+    "decoration": 1,
+    "font": "CardSans",
+    "colors": [
+      "6A3178",
+      "D67788",
+      "FFF1D6"
+    ],
+    "emoji": "🎂",
+    "variant": 5,
+    "motifPosition": [
+      0.5,
+      0.195
+    ],
+    "emojiPosition": [
+      150,
+      -110
+    ]
+  },
+  {
+    "id": "birthday-07",
+    "category": "birthday",
+    "premium": false,
+    "layout": 0,
+    "decoration": 2,
+    "font": "CardSerif",
+    "colors": [
+      "6A3178",
+      "D67788",
+      "FFF1D6"
+    ],
+    "emoji": "🎂",
+    "variant": 6,
+    "motifPosition": [
+      0.5,
+      0.195
+    ],
+    "emojiPosition": [
+      150,
+      -110
+    ]
+  },
+  {
+    "id": "birthday-08",
+    "category": "birthday",
+    "premium": false,
+    "layout": 1,
+    "decoration": 3,
+    "font": "CardSans",
+    "colors": [
+      "6A3178",
+      "D67788",
+      "FFF1D6"
+    ],
+    "emoji": "🎂",
+    "variant": 7,
+    "motifPosition": [
+      0.5,
+      0.195
+    ],
+    "emojiPosition": [
+      150,
+      -110
+    ]
+  },
+  {
+    "id": "birthday-09",
+    "category": "birthday",
+    "premium": true,
+    "layout": 2,
+    "decoration": 0,
+    "font": "CardSerif",
+    "colors": [
+      "6A3178",
+      "D67788",
+      "FFF1D6"
+    ],
+    "emoji": "🎂",
+    "variant": 8,
+    "motifPosition": [
+      0.5,
+      0.195
+    ],
+    "emojiPosition": [
+      150,
+      -110
+    ]
+  },
+  {
+    "id": "birthday-10",
+    "category": "birthday",
+    "premium": true,
+    "layout": 0,
+    "decoration": 1,
+    "font": "CardSans",
+    "colors": [
+      "6A3178",
+      "D67788",
+      "FFF1D6"
+    ],
+    "emoji": "🎂",
+    "variant": 9,
+    "motifPosition": [
+      0.5,
+      0.195
+    ],
+    "emojiPosition": [
+      150,
+      -110
+    ]
+  },
+  {
+    "id": "birthday-11",
+    "category": "birthday",
+    "premium": true,
+    "layout": 1,
+    "decoration": 2,
+    "font": "CardSerif",
+    "colors": [
+      "6A3178",
+      "D67788",
+      "FFF1D6"
+    ],
+    "emoji": "🎂",
+    "variant": 10,
+    "motifPosition": [
+      0.5,
+      0.195
+    ],
+    "emojiPosition": [
+      150,
+      -110
+    ]
+  },
+  {
+    "id": "birthday-12",
+    "category": "birthday",
+    "premium": true,
+    "layout": 2,
+    "decoration": 3,
+    "font": "CardSans",
+    "colors": [
+      "6A3178",
+      "D67788",
+      "FFF1D6"
+    ],
+    "emoji": "🎂",
+    "variant": 11,
+    "motifPosition": [
+      0.5,
+      0.195
+    ],
+    "emojiPosition": [
+      150,
+      -110
+    ]
+  },
+  {
+    "id": "birthday-13",
+    "category": "birthday",
+    "premium": true,
+    "layout": 0,
+    "decoration": 0,
+    "font": "CardSerif",
+    "colors": [
+      "6A3178",
+      "D67788",
+      "FFF1D6"
+    ],
+    "emoji": "🎂",
+    "variant": 12,
+    "motifPosition": [
+      0.5,
+      0.195
+    ],
+    "emojiPosition": [
+      150,
+      -110
+    ]
+  },
+  {
+    "id": "wedding-01",
+    "category": "wedding",
+    "premium": false,
+    "layout": 0,
+    "decoration": 0,
+    "font": "CardSerif",
+    "colors": [
+      "435B4E",
+      "98B496",
+      "FFF9E9"
+    ],
+    "emoji": "💍",
+    "variant": 0,
+    "motifPosition": [
+      0.5,
+      0.195
+    ],
+    "emojiPosition": [
+      150,
+      -110
+    ]
+  },
+  {
+    "id": "wedding-02",
+    "category": "wedding",
+    "premium": false,
+    "layout": 1,
+    "decoration": 1,
+    "font": "CardSans",
+    "colors": [
+      "435B4E",
+      "98B496",
+      "FFF9E9"
+    ],
+    "emoji": "💍",
+    "variant": 1,
+    "motifPosition": [
+      0.5,
+      0.195
+    ],
+    "emojiPosition": [
+      150,
+      -110
+    ]
+  },
+  {
+    "id": "wedding-03",
+    "category": "wedding",
+    "premium": false,
+    "layout": 2,
+    "decoration": 2,
+    "font": "CardSerif",
+    "colors": [
+      "435B4E",
+      "98B496",
+      "FFF9E9"
+    ],
+    "emoji": "💍",
+    "variant": 2,
+    "motifPosition": [
+      0.5,
+      0.195
+    ],
+    "emojiPosition": [
+      150,
+      -110
+    ]
+  },
+  {
+    "id": "wedding-04",
+    "category": "wedding",
+    "premium": false,
+    "layout": 0,
+    "decoration": 3,
+    "font": "CardSans",
+    "colors": [
+      "435B4E",
+      "98B496",
+      "FFF9E9"
+    ],
+    "emoji": "💍",
+    "variant": 3,
+    "motifPosition": [
+      0.5,
+      0.195
+    ],
+    "emojiPosition": [
+      150,
+      -110
+    ]
+  },
+  {
+    "id": "wedding-05",
+    "category": "wedding",
+    "premium": false,
+    "layout": 1,
+    "decoration": 0,
+    "font": "CardSerif",
+    "colors": [
+      "435B4E",
+      "98B496",
+      "FFF9E9"
+    ],
+    "emoji": "💍",
+    "variant": 4,
+    "motifPosition": [
+      0.5,
+      0.195
+    ],
+    "emojiPosition": [
+      150,
+      -110
+    ]
+  },
+  {
+    "id": "wedding-06",
+    "category": "wedding",
+    "premium": false,
+    "layout": 2,
+    "decoration": 1,
+    "font": "CardSans",
+    "colors": [
+      "435B4E",
+      "98B496",
+      "FFF9E9"
+    ],
+    "emoji": "💍",
+    "variant": 5,
+    "motifPosition": [
+      0.5,
+      0.195
+    ],
+    "emojiPosition": [
+      150,
+      -110
+    ]
+  },
+  {
+    "id": "wedding-07",
+    "category": "wedding",
+    "premium": false,
+    "layout": 0,
+    "decoration": 2,
+    "font": "CardSerif",
+    "colors": [
+      "435B4E",
+      "98B496",
+      "FFF9E9"
+    ],
+    "emoji": "💍",
+    "variant": 6,
+    "motifPosition": [
+      0.5,
+      0.195
+    ],
+    "emojiPosition": [
+      150,
+      -110
+    ]
+  },
+  {
+    "id": "wedding-08",
+    "category": "wedding",
+    "premium": false,
+    "layout": 1,
+    "decoration": 3,
+    "font": "CardSans",
+    "colors": [
+      "435B4E",
+      "98B496",
+      "FFF9E9"
+    ],
+    "emoji": "💍",
+    "variant": 7,
+    "motifPosition": [
+      0.5,
+      0.195
+    ],
+    "emojiPosition": [
+      150,
+      -110
+    ]
+  },
+  {
+    "id": "wedding-09",
+    "category": "wedding",
+    "premium": true,
+    "layout": 2,
+    "decoration": 0,
+    "font": "CardSerif",
+    "colors": [
+      "435B4E",
+      "98B496",
+      "FFF9E9"
+    ],
+    "emoji": "💍",
+    "variant": 8,
+    "motifPosition": [
+      0.5,
+      0.195
+    ],
+    "emojiPosition": [
+      150,
+      -110
+    ]
+  },
+  {
+    "id": "wedding-10",
+    "category": "wedding",
+    "premium": true,
+    "layout": 0,
+    "decoration": 1,
+    "font": "CardSans",
+    "colors": [
+      "435B4E",
+      "98B496",
+      "FFF9E9"
+    ],
+    "emoji": "💍",
+    "variant": 9,
+    "motifPosition": [
+      0.5,
+      0.195
+    ],
+    "emojiPosition": [
+      150,
+      -110
+    ]
+  },
+  {
+    "id": "wedding-11",
+    "category": "wedding",
+    "premium": true,
+    "layout": 1,
+    "decoration": 2,
+    "font": "CardSerif",
+    "colors": [
+      "435B4E",
+      "98B496",
+      "FFF9E9"
+    ],
+    "emoji": "💍",
+    "variant": 10,
+    "motifPosition": [
+      0.5,
+      0.195
+    ],
+    "emojiPosition": [
+      150,
+      -110
+    ]
+  },
+  {
+    "id": "wedding-12",
+    "category": "wedding",
+    "premium": true,
+    "layout": 2,
+    "decoration": 3,
+    "font": "CardSans",
+    "colors": [
+      "435B4E",
+      "98B496",
+      "FFF9E9"
+    ],
+    "emoji": "💍",
+    "variant": 11,
+    "motifPosition": [
+      0.5,
+      0.195
+    ],
+    "emojiPosition": [
+      150,
+      -110
+    ]
+  },
+  {
+    "id": "wedding-13",
+    "category": "wedding",
+    "premium": true,
+    "layout": 0,
+    "decoration": 0,
+    "font": "CardSerif",
+    "colors": [
+      "435B4E",
+      "98B496",
+      "FFF9E9"
+    ],
+    "emoji": "💍",
+    "variant": 12,
+    "motifPosition": [
+      0.5,
+      0.195
+    ],
+    "emojiPosition": [
+      150,
+      -110
+    ]
+  },
+  {
+    "id": "anniversary-01",
+    "category": "anniversary",
+    "premium": false,
+    "layout": 0,
+    "decoration": 0,
+    "font": "CardSerif",
+    "colors": [
+      "704827",
+      "B58946",
+      "FFF4D7"
+    ],
+    "emoji": "✨",
+    "variant": 0,
+    "motifPosition": [
+      0.5,
+      0.195
+    ],
+    "emojiPosition": [
+      150,
+      -110
+    ]
+  },
+  {
+    "id": "anniversary-02",
+    "category": "anniversary",
+    "premium": false,
+    "layout": 1,
+    "decoration": 1,
+    "font": "CardSans",
+    "colors": [
+      "704827",
+      "B58946",
+      "FFF4D7"
+    ],
+    "emoji": "✨",
+    "variant": 1,
+    "motifPosition": [
+      0.5,
+      0.195
+    ],
+    "emojiPosition": [
+      150,
+      -110
+    ]
+  },
+  {
+    "id": "anniversary-03",
+    "category": "anniversary",
+    "premium": false,
+    "layout": 2,
+    "decoration": 2,
+    "font": "CardSerif",
+    "colors": [
+      "704827",
+      "B58946",
+      "FFF4D7"
+    ],
+    "emoji": "✨",
+    "variant": 2,
+    "motifPosition": [
+      0.5,
+      0.195
+    ],
+    "emojiPosition": [
+      150,
+      -110
+    ]
+  },
+  {
+    "id": "anniversary-04",
+    "category": "anniversary",
+    "premium": false,
+    "layout": 0,
+    "decoration": 3,
+    "font": "CardSans",
+    "colors": [
+      "704827",
+      "B58946",
+      "FFF4D7"
+    ],
+    "emoji": "✨",
+    "variant": 3,
+    "motifPosition": [
+      0.5,
+      0.195
+    ],
+    "emojiPosition": [
+      150,
+      -110
+    ]
+  },
+  {
+    "id": "anniversary-05",
+    "category": "anniversary",
+    "premium": false,
+    "layout": 1,
+    "decoration": 0,
+    "font": "CardSerif",
+    "colors": [
+      "704827",
+      "B58946",
+      "FFF4D7"
+    ],
+    "emoji": "✨",
+    "variant": 4,
+    "motifPosition": [
+      0.5,
+      0.195
+    ],
+    "emojiPosition": [
+      150,
+      -110
+    ]
+  },
+  {
+    "id": "anniversary-06",
+    "category": "anniversary",
+    "premium": false,
+    "layout": 2,
+    "decoration": 1,
+    "font": "CardSans",
+    "colors": [
+      "704827",
+      "B58946",
+      "FFF4D7"
+    ],
+    "emoji": "✨",
+    "variant": 5,
+    "motifPosition": [
+      0.5,
+      0.195
+    ],
+    "emojiPosition": [
+      150,
+      -110
+    ]
+  },
+  {
+    "id": "anniversary-07",
+    "category": "anniversary",
+    "premium": false,
+    "layout": 0,
+    "decoration": 2,
+    "font": "CardSerif",
+    "colors": [
+      "704827",
+      "B58946",
+      "FFF4D7"
+    ],
+    "emoji": "✨",
+    "variant": 6,
+    "motifPosition": [
+      0.5,
+      0.195
+    ],
+    "emojiPosition": [
+      150,
+      -110
+    ]
+  },
+  {
+    "id": "anniversary-08",
+    "category": "anniversary",
+    "premium": false,
+    "layout": 1,
+    "decoration": 3,
+    "font": "CardSans",
+    "colors": [
+      "704827",
+      "B58946",
+      "FFF4D7"
+    ],
+    "emoji": "✨",
+    "variant": 7,
+    "motifPosition": [
+      0.5,
+      0.195
+    ],
+    "emojiPosition": [
+      150,
+      -110
+    ]
+  },
+  {
+    "id": "anniversary-09",
+    "category": "anniversary",
+    "premium": true,
+    "layout": 2,
+    "decoration": 0,
+    "font": "CardSerif",
+    "colors": [
+      "704827",
+      "B58946",
+      "FFF4D7"
+    ],
+    "emoji": "✨",
+    "variant": 8,
+    "motifPosition": [
+      0.5,
+      0.195
+    ],
+    "emojiPosition": [
+      150,
+      -110
+    ]
+  },
+  {
+    "id": "anniversary-10",
+    "category": "anniversary",
+    "premium": true,
+    "layout": 0,
+    "decoration": 1,
+    "font": "CardSans",
+    "colors": [
+      "704827",
+      "B58946",
+      "FFF4D7"
+    ],
+    "emoji": "✨",
+    "variant": 9,
+    "motifPosition": [
+      0.5,
+      0.195
+    ],
+    "emojiPosition": [
+      150,
+      -110
+    ]
+  },
+  {
+    "id": "anniversary-11",
+    "category": "anniversary",
+    "premium": true,
+    "layout": 1,
+    "decoration": 2,
+    "font": "CardSerif",
+    "colors": [
+      "704827",
+      "B58946",
+      "FFF4D7"
+    ],
+    "emoji": "✨",
+    "variant": 10,
+    "motifPosition": [
+      0.5,
+      0.195
+    ],
+    "emojiPosition": [
+      150,
+      -110
+    ]
+  },
+  {
+    "id": "anniversary-12",
+    "category": "anniversary",
+    "premium": true,
+    "layout": 2,
+    "decoration": 3,
+    "font": "CardSans",
+    "colors": [
+      "704827",
+      "B58946",
+      "FFF4D7"
+    ],
+    "emoji": "✨",
+    "variant": 11,
+    "motifPosition": [
+      0.5,
+      0.195
+    ],
+    "emojiPosition": [
+      150,
+      -110
+    ]
+  },
+  {
+    "id": "anniversary-13",
+    "category": "anniversary",
+    "premium": true,
+    "layout": 0,
+    "decoration": 0,
+    "font": "CardSerif",
+    "colors": [
+      "704827",
+      "B58946",
+      "FFF4D7"
+    ],
+    "emoji": "✨",
+    "variant": 12,
+    "motifPosition": [
+      0.5,
+      0.195
+    ],
+    "emojiPosition": [
+      150,
+      -110
+    ]
+  },
+  {
+    "id": "graduation-01",
+    "category": "graduation",
+    "premium": false,
+    "layout": 0,
+    "decoration": 0,
+    "font": "CardSerif",
+    "colors": [
+      "273668",
+      "7784BE",
+      "FFF5D9"
+    ],
+    "emoji": "🎓",
+    "variant": 0,
+    "motifPosition": [
+      0.5,
+      0.195
+    ],
+    "emojiPosition": [
+      150,
+      -110
+    ]
+  },
+  {
+    "id": "graduation-02",
+    "category": "graduation",
+    "premium": false,
+    "layout": 1,
+    "decoration": 1,
+    "font": "CardSans",
+    "colors": [
+      "273668",
+      "7784BE",
+      "FFF5D9"
+    ],
+    "emoji": "🎓",
+    "variant": 1,
+    "motifPosition": [
+      0.5,
+      0.195
+    ],
+    "emojiPosition": [
+      150,
+      -110
+    ]
+  },
+  {
+    "id": "graduation-03",
+    "category": "graduation",
+    "premium": false,
+    "layout": 2,
+    "decoration": 2,
+    "font": "CardSerif",
+    "colors": [
+      "273668",
+      "7784BE",
+      "FFF5D9"
+    ],
+    "emoji": "🎓",
+    "variant": 2,
+    "motifPosition": [
+      0.5,
+      0.195
+    ],
+    "emojiPosition": [
+      150,
+      -110
+    ]
+  },
+  {
+    "id": "graduation-04",
+    "category": "graduation",
+    "premium": false,
+    "layout": 0,
+    "decoration": 3,
+    "font": "CardSans",
+    "colors": [
+      "273668",
+      "7784BE",
+      "FFF5D9"
+    ],
+    "emoji": "🎓",
+    "variant": 3,
+    "motifPosition": [
+      0.5,
+      0.195
+    ],
+    "emojiPosition": [
+      150,
+      -110
+    ]
+  },
+  {
+    "id": "graduation-05",
+    "category": "graduation",
+    "premium": false,
+    "layout": 1,
+    "decoration": 0,
+    "font": "CardSerif",
+    "colors": [
+      "273668",
+      "7784BE",
+      "FFF5D9"
+    ],
+    "emoji": "🎓",
+    "variant": 4,
+    "motifPosition": [
+      0.5,
+      0.195
+    ],
+    "emojiPosition": [
+      150,
+      -110
+    ]
+  },
+  {
+    "id": "graduation-06",
+    "category": "graduation",
+    "premium": false,
+    "layout": 2,
+    "decoration": 1,
+    "font": "CardSans",
+    "colors": [
+      "273668",
+      "7784BE",
+      "FFF5D9"
+    ],
+    "emoji": "🎓",
+    "variant": 5,
+    "motifPosition": [
+      0.5,
+      0.195
+    ],
+    "emojiPosition": [
+      150,
+      -110
+    ]
+  },
+  {
+    "id": "graduation-07",
+    "category": "graduation",
+    "premium": false,
+    "layout": 0,
+    "decoration": 2,
+    "font": "CardSerif",
+    "colors": [
+      "273668",
+      "7784BE",
+      "FFF5D9"
+    ],
+    "emoji": "🎓",
+    "variant": 6,
+    "motifPosition": [
+      0.5,
+      0.195
+    ],
+    "emojiPosition": [
+      150,
+      -110
+    ]
+  },
+  {
+    "id": "graduation-08",
+    "category": "graduation",
+    "premium": false,
+    "layout": 1,
+    "decoration": 3,
+    "font": "CardSans",
+    "colors": [
+      "273668",
+      "7784BE",
+      "FFF5D9"
+    ],
+    "emoji": "🎓",
+    "variant": 7,
+    "motifPosition": [
+      0.5,
+      0.195
+    ],
+    "emojiPosition": [
+      150,
+      -110
+    ]
+  },
+  {
+    "id": "graduation-09",
+    "category": "graduation",
+    "premium": true,
+    "layout": 2,
+    "decoration": 0,
+    "font": "CardSerif",
+    "colors": [
+      "273668",
+      "7784BE",
+      "FFF5D9"
+    ],
+    "emoji": "🎓",
+    "variant": 8,
+    "motifPosition": [
+      0.5,
+      0.195
+    ],
+    "emojiPosition": [
+      150,
+      -110
+    ]
+  },
+  {
+    "id": "graduation-10",
+    "category": "graduation",
+    "premium": true,
+    "layout": 0,
+    "decoration": 1,
+    "font": "CardSans",
+    "colors": [
+      "273668",
+      "7784BE",
+      "FFF5D9"
+    ],
+    "emoji": "🎓",
+    "variant": 9,
+    "motifPosition": [
+      0.5,
+      0.195
+    ],
+    "emojiPosition": [
+      150,
+      -110
+    ]
+  },
+  {
+    "id": "graduation-11",
+    "category": "graduation",
+    "premium": true,
+    "layout": 1,
+    "decoration": 2,
+    "font": "CardSerif",
+    "colors": [
+      "273668",
+      "7784BE",
+      "FFF5D9"
+    ],
+    "emoji": "🎓",
+    "variant": 10,
+    "motifPosition": [
+      0.5,
+      0.195
+    ],
+    "emojiPosition": [
+      150,
+      -110
+    ]
+  },
+  {
+    "id": "graduation-12",
+    "category": "graduation",
+    "premium": true,
+    "layout": 2,
+    "decoration": 3,
+    "font": "CardSans",
+    "colors": [
+      "273668",
+      "7784BE",
+      "FFF5D9"
+    ],
+    "emoji": "🎓",
+    "variant": 11,
+    "motifPosition": [
+      0.5,
+      0.195
+    ],
+    "emojiPosition": [
+      150,
+      -110
+    ]
+  },
+  {
+    "id": "graduation-13",
+    "category": "graduation",
+    "premium": true,
+    "layout": 0,
+    "decoration": 0,
+    "font": "CardSerif",
+    "colors": [
+      "273668",
+      "7784BE",
+      "FFF5D9"
+    ],
+    "emoji": "🎓",
+    "variant": 12,
+    "motifPosition": [
+      0.5,
+      0.195
+    ],
+    "emojiPosition": [
+      150,
+      -110
+    ]
+  }
+]
